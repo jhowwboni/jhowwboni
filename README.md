@@ -1,6 +1,9 @@
 ## Jhonatas Bonifacio
 Olá! Sou estudante de análise e desenvolvimento de sistemas focado em aprender Java. Aqui você encontrará meus projetos relacionados a Java e outras tecnologias. Estou aberto a colaborações e feedback. Vamos criar soluções incríveis juntos!
 
+### Tecnologias que conheço:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 <!--
 **jhowwboni/jhowwboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
